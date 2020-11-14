@@ -1,7 +1,8 @@
 <template>
     <div>
+        <h3>Se tiene la siguiente información de este usuario</h3>
         <table class="table">
-            <thead class="thead-dark">
+            <thead class="thead-light">
                 <tr>
                     <th scope="col">ID</th>
                     <th scope="col">NAME</th>
@@ -52,6 +53,6 @@ export default {
 
 <style>
     .table {
-        margin-top: 100px;
+        margin-top: 50px;
     }
 </style>

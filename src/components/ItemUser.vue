@@ -25,6 +25,8 @@ export default {
         display: flex;
         justify-content: center;
         align-items: center;
+        color: blue;
+        font-weight: 900;
     }
 
     p:hover {

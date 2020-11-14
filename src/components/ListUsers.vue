@@ -48,7 +48,10 @@ export default {
         list-style: none;
         display: flex;
         flex-wrap: wrap;
-        justify-content: space-around;
+    }
+
+    li {
+        margin: 0 20px;
     }
 
     a {
